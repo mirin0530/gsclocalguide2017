@@ -10,4 +10,4 @@
 ## 2017年データ作業チーム
 * 谷中大翔(hirotooo777@gmail.com)
 * 山田　和哉(316originaloveee@gmail.com)
-＊　　大井直樹(chipstar3149@gmail.com)
+* 大井直樹(chipstar3149@gmail.com)
