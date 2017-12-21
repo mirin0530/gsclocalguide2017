@@ -1,0 +1,1 @@
+# gsclocalguide2017
