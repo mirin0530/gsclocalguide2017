@@ -8,6 +8,6 @@
 * 氏名　加藤　夕佳（katoyuka7418@gmail.com)
 
 ## 2017年データ作業チーム
-* 谷中大翔(hirotooo777@gmail.com)
-* 山田　和哉(316originaloveee@gmail.com)
-* 大井直樹(chipstar3149@gmail.com)
+* 谷中 大翔(hirotooo777@gmail.com)
+* 山田 和哉(316originaloveee@gmail.com)
+* 大井 直樹(chipstar3149@gmail.com)
