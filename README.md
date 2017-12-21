@@ -5,6 +5,7 @@
 * 氏名　大阪　喜佐(51kisa8560@gmai.com)
 * 氏名　大槻　純萌(a.13e.pon@gmai.com)
 * 氏名　江口　弥生(yayoi.eguchi@gmai.com)
+* 氏名　加藤　夕佳（katoyuka7418@gmail.com)
 
 ## 2017年データ作業チーム
 * 氏名
