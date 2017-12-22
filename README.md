@@ -6,7 +6,7 @@
 * 氏名　大槻　純萌(a.13e.pon@gmai.com)
 * 氏名　江口　弥生(yayoi.eguchi@gmai.com)
 * 氏名　加藤　夕佳（katoyuka7418@gmail.com)
-
+* 氏名　小松　美凜(reo0207waon1227waon@gmail.com)
 ## 2017年データ作業チーム
 * 谷中 大翔(hirotooo777@gmail.com)
 * 山田 和哉(316originaloveee@gmail.com)
