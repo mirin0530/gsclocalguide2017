@@ -11,3 +11,4 @@
 * 谷中 大翔(hirotooo777@gmail.com)
 * 山田 和哉(316originaloveee@gmail.com)
 * 大井 直樹(chipstar3149@gmail.com)
+* 小松　美凜(reo0207waon1227waon@gmail.com)
